@@ -1,2 +1,3 @@
 # workhorse
-Knife Edge: Automated run. Moves the linear stage, writes ADC reading in file. 
+1. Knife Edge: Automated run. Moves the linear stage, writes ADC reading in file. 
+2. Report template in Latex. 
