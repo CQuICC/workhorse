@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Net Access
+Exec=python /home/suresh/Documents/netaccess.py
+Icon=utilities-terminal
+Type=Application
+Terminal=true
+
